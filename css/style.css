@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.test {
+    width: 100px;
+    height: 100px;
+    background-color: teal;
+    margin-right: auto;
+}
+.bg {
+    background-color: transparent !important;
+}
+
+img{
+    border: 30px solid teal;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+}
